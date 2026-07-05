@@ -10,6 +10,7 @@ Use this order if you want a complete path from beginner programming to modern s
 
 1. **Programming fundamentals**
    - `learn-coding/Nature-of-code.pdf`
+   - `learn-coding/Programming_Languages_concepts.pdf`
    - Best for logic, motion, simulation, creative coding, and problem solving.
 
 2. **HTML and CSS basics**
@@ -52,6 +53,7 @@ Use this order if you want a complete path from beginner programming to modern s
 11. **Python**
     - `Python/smarter_way_python.pdf`
     - `Python/Python_Notes.pdf`
+    - `Python/Python.pdf`
     - Best for a clean introduction to Python syntax, notes, revision, and beginner-friendly programming.
 
 12. **Artificial intelligence foundations**
@@ -62,6 +64,7 @@ Use this order if you want a complete path from beginner programming to modern s
 
 13. **Machine learning**
     - `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`
+    - `AI_BOOKS/Machine_learning/machine-learning-projects-python.pdf`
     - Best after Python basics and AI foundations, when you want to understand practical machine learning workflows.
 
 14. **Deep learning**
@@ -76,6 +79,7 @@ Start here if you are new to programming or want to strengthen problem solving. 
 
 Books:
 - `learn-coding/Nature-of-code.pdf`
+- `learn-coding/Programming_Languages_concepts.pdf`
 
 Guide:
 - `learn-coding/README.md`
@@ -100,6 +104,7 @@ Use this folder when you want a beginner-friendly path into Python programming.
 Books:
 - `Python/smarter_way_python.pdf`
 - `Python/Python_Notes.pdf`
+- `Python/Python.pdf`
 
 Guide:
 - `Python/README.md`
@@ -118,6 +123,7 @@ Books:
 - `AI_BOOKS/AI_BOOKS/AI_FreeBook.pdf`
 - `AI_BOOKS/AI_BOOKS/ArtificiaL_.pdf`
 - `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`
+- `AI_BOOKS/Machine_learning/machine-learning-projects-python.pdf`
 - `AI_BOOKS/Deep_learninng/deeplearningwithpython.pdf`
 
 Guide:
