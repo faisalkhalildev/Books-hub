@@ -148,7 +148,7 @@ Guide:
 - Use advanced books as references after you understand the beginner material.
 - Keep folder names topic-based, because it makes the library easier to scale as more books are uploaded.
 - When multiple books cover the same topic, start with the easiest one, then use the advanced book for deeper understanding.
-- Downloaded it more easily and read in here.
+- Downloaded it more easily and read in here and read it for confidence.
 
 ## Final Review
 
