@@ -3,7 +3,7 @@
 
 **Books Hub** is a curated programming and engineering book library. It is organized for easy discovery, clear reading order, and practical learning across coding fundamentals, web development, Python, artificial intelligence, machine learning, and deep learning.
 
-This repository is maintained with help from my friend **Muhammad Khayyam**, who works with me on the collection and helps upload books daily.
+This repository is maintained with help from my friend **Muhammad Khayyam**, who works with me on the collection and helps upload books daily consistent IA.
 
 ## Best Reading Order
 
