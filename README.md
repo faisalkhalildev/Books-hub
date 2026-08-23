@@ -12,7 +12,7 @@ Use this order if you want a complete path from beginner programming to modern s
 1. **Programming fundamentals**
    - `learn-coding/Nature-of-code.pdf`
    - `learn-coding/Programming_Languages_concepts.pdf`
-   - Best for logic, motion, simulation, creative coding, and problem solving.
+   - Best for logic, motion, simulation, creative coding, and problem solving and also leet code problem solving guidance.
 
 2. **HTML and CSS basics**
    - `MERN-Stack-Books/Html-and-Css-Books/Wiley.HTML.and.CSS.Oct.2011.pdf`
