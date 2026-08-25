@@ -147,9 +147,8 @@ Guide:
 - For programming books, read with practice. Re-type examples, change them, and build small projects.
 - Use advanced books as references after you understand the beginner material.
 - Keep folder names topic-based, because it makes the library easier to scale as more books are uploaded.
-- When multiple books cover the same topic, start with the easiest one, then use the advanced book for deeper understanding.
 
 ## Final Review
 
 As a software engineer and book reader, this collection has a strong practical direction. It starts with programming fundamentals, moves into frontend and JavaScript engineering, adds Python, and then opens the door to AI, machine learning, and deep learning. The current subfolder structure is easy to scan, and Muhammad Khayyam's daily upload support gives Books Hub room to grow into a useful long-term resource for programmers, engineers.
-We will added Data Structure and Algorithm Books and also Linux Operating system Beautiful Book
+We will added Data Structure and Algorithm Books and also Linux Operating system Beautiful Book.
