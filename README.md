@@ -7,7 +7,7 @@ This repository is maintained with help from my friend **Muhammad Khayyam**, who
 
 ## Best Reading Order
 
-Use this order if you want a complete path from beginner programming to modern software engineering:
+
 
 1. **Programming fundamentals**
    - `learn-coding/Nature-of-code.pdf`
