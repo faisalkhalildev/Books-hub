@@ -151,4 +151,4 @@ Guide:
 ## Final Review
 
 As a software engineer and book reader, this collection has a strong practical direction. It starts with programming fundamentals, moves into frontend and JavaScript engineering, adds Python, and then opens the door to AI, machine learning, and deep learning. The current subfolder structure is easy to scan, and Muhammad Khayyam's daily upload support gives Books Hub room to grow into a useful long-term resource for programmers, engineers.
-We will added Data Structure and Algorithm Books and also Linux Operating system Beautiful Book.
+
