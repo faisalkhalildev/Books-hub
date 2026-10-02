@@ -138,8 +138,8 @@ Guide:
 - **I want mobile apps:** learn React first, then open the React Native book.
 - **I want Python:** start with `Python/smarter_way_python.pdf`, then use `Python/Python_Notes.pdf` for revision and practice.
 - **I want AI:** learn Python first, read the general AI books, then move into machine learning and deep learning.
-- **I want machine learning:** open `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`.
 - **I want deep learning:** open `AI_BOOKS/Deep_learninng/deeplearningwithpython.pdf` after Python basics.
+- **I want machine learning:** open `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`.
 
 ## Professional Reader Notes
 
