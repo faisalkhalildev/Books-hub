@@ -146,7 +146,7 @@ Guide:
 - Do not try to finish every book at once. Pick one learning goal and follow the matching path.
 - Use advanced books as references after you understand the beginner material.
 - Keep folder names topic-based, because it makes the library easier to scale as more books are uploaded
-- For programming books, read with practice. Re-type examples, change them, and build small projects.
+
 
 ## Final Review
 
