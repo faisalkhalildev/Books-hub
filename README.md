@@ -119,13 +119,7 @@ Subfolders:
 - `AI_BOOKS/Machine_learning/` - machine learning resources.
 - `AI_BOOKS/Deep_learninng/` - deep learning resources.
 
-Books:
-- `AI_BOOKS/AI_BOOKS/AI.pdf`
-- `AI_BOOKS/AI_BOOKS/AI_FreeBook.pdf`
-- `AI_BOOKS/AI_BOOKS/ArtificiaL_.pdf`
-- `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`
-- `AI_BOOKS/Machine_learning/machine-learning-projects-python.pdf`
-- `AI_BOOKS/Deep_learninng/deeplearningwithpython.pdf`
+`
 
 Guide:
 - `AI_BOOKS/README.md`
