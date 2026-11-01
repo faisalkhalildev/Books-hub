@@ -143,11 +143,7 @@ Guide:
 - **I want deep learning:** open `AI_BOOKS/Deep_learninng/deeplearningwithpython.pdf` after Python basics.
 - **I want machine learning:** open `AI_BOOKS/Machine_learning/preview-9781098122478_A49445030.pdf`.
 
-## Professional Reader Notes
 
-- Do not try to finish every book at once. Pick one learning goal and follow the matching path.
-- Use advanced books as references after you understand the beginner material.
-- Keep folder names topic-based, because it makes the library easier to scale as more books are uploaded
 
 
 ## Final Review
